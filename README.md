@@ -1,8 +1,8 @@
 # -Caesar_Cipher
 
-C# Programlama Dilinde Sezar Sifreleme
+Caesar Encryption in C# Programming Language
 
-Tarihte bilinen ilk şifreleme algoritması olan Sezar Şifreleme kullanılarak hazırlanan bir C# uygulamasıdır.
+It is a C# application prepared using Caesar Cipher, the first known encryption algorithm in history.
 
 Wikipedia, the free encyclopedia
 
