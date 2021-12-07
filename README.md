@@ -15,10 +15,3 @@ It is easily solved with a brute-force attack. Because the Encryption/Decryption
 
 
 
-Vikipedi, özgür ansiklopedi
-
-Tarihin ilk kriptolojik fikirleri İngilizce'de transposition and substitution cipher adını taşır, yani yer değiştirme ve harf değiştirme şifrelemesi. Bu yöntemlerden ilki bir yazıdaki harflerin yerlerini değiştirerek, ikincisi ise harfleri başka harflerle değiştirerek elde edilir. Bu şifrelemeyi kullanan belki de en ünlü teknik Sezar Şifresi'dir: Bu şifrede, her harf o harften birkaç sonraki harf kullanılarak yazılır. Örneğin, 3 harf atlamalı Sezar Şifresi'nde "deneme" yerine "ghqhph" yazılır.
-
-Öte yandan, Sezar Şifresi(Cevrimsel alfabe) kırmak görece kolay olmaktadır: Bir filolog, bir dilde en çok geçen harfleri bulabilir. O harfler ile mesajda en sık geçen harfleri karşılaştırarak hangi harfin hangi harf ile değiştirildiğini bulabilir. Bu adımların ardından, mesaj çözülmüş olur. Sezar Şifresi Hakkında:
-
-Kaba kuvvet (brute-force) saldırısıyla çok kolay çözülür. ÇünküŞifreleme/Şifre çözme yöntemi gizli değildir. Sadece 25 (Latin alfabesi harf sayısı) farklı deneme yeterlidir. (Anahtar uzayı 25 elemanlıdır.) Düz metin (plaintext) ve formatı gizli değildir. Harf değiştirme şifrelemelerinde toplam 26! farklı şifre tablosu vardır.
